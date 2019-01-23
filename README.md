@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 Sample Deployment config
 
 ## Contributions
+Sample Contribution for users to add information.
