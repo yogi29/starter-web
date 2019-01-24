@@ -13,3 +13,7 @@ Sample Deployment config
 
 ## Contributions
 Sample Contribution for users to add information.
+
+
+## Copyright
+Add Copyright notice here
