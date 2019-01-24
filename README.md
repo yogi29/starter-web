@@ -17,4 +17,4 @@ Sample Contribution for users to add information.
 
 
 ## Copyright
-Add Copyright notice here
+2019 Yogi Global Pty Ltd - All rights reserved
