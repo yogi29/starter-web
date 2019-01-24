@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## INTRODUCTION
 This is test introduction .. Hello rebasing 
-
+More changes from myfeature branch
 ## Purpose
 
 Sample website with plenty of files for demos
